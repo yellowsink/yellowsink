@@ -1,5 +1,5 @@
 # hey!
-I'm sink / Cain. Nice to see ya.
+I'm sink / Hazel. Nice to see ya.
 
 My home is at [yellows.ink](//yellows.ink), and I also have my blog, [Quiet System](//uwu.network/~sink/blog).
 
