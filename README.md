@@ -26,13 +26,16 @@ Go check out all my friends at [UWU.NETWORK](//github.com/uwu), they make awesom
 <img src="https://skillicons.dev/icons?i=svelte,vue,alpinejs,visualstudio,docker,mysql,sqlite" />
 
 ## Want to learn:
-<img src="https://skillicons.dev/icons?i=haskell,kotlin,ktor,plan9,swift,zig,remix,flutter,htmx,nix,vitest,grafana" />
+<img src="https://skillicons.dev/icons?perline=8&i=haskell,kotlin,ktor,plan9,swift,zig,remix,flutter,htmx,nix,vitest,grafana" />
 
 ## Not interested:
 Tried (or competent!) and disliked:
-<img src="https://skillicons.dev/icons?i=angular,emacs,gradle,go,heroku,react,java,nodejs,py,replit,vim,yarn" />
 
-Give me an "ick": <img src="https://skillicons.dev/icons?perline=12&i=anaconda,cmake,django,eclipse,flask,ipfs,laravel,lit,maven,perl,php,sentry,solidity,tauri,v,webpack" />
+<img src="https://skillicons.dev/icons?perline=8&i=angular,emacs,gradle,go,heroku,react,java,nodejs,py,replit,vim,yarn" />
+
+Give me an "ick":
+
+<img src="https://skillicons.dev/icons?perline=8&i=anaconda,cmake,django,eclipse,flask,ipfs,laravel,lit,maven,perl,php,sentry,solidity,tauri,v,webpack" />
 
 <details>
   <summary>What's the point of this all...?</summary>
