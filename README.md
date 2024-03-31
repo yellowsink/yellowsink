@@ -14,18 +14,33 @@ Go check out all my friends at [UWU.NETWORK](//github.com/uwu), they make awesom
 <img src="https://skillicons.dev/icons?i=js,ts,cs,md,html,css,sass,regex" />
 <!-- Frameworks -->
 <img src="https://skillicons.dev/icons?i=solidjs,astro,dotnet,workers,deno" />
-<!-- DBs -->
-<img src="https://skillicons.dev/icons?i=workers,mysql" />
 <!-- Web tooling -->
-<img src="https://skillicons.dev/icons?i=vite,vscode,tailwind" />
+<img src="https://skillicons.dev/icons?i=vite,vscode,tailwind,pnpm,vercel" />
 <!-- Other -->
-<img src="https://skillicons.dev/icons?i=github,linux,idea,vscode,git,githubactions" />
+<img src="https://skillicons.dev/icons?i=github,linux,arch,rider,webstorm,vscode,git,githubactions" />
 
 ## Comfortable:
 <!-- Languages -->
-<img src="https://skillicons.dev/icons?i=rust,dart,bash,svg,latex" />
+<img src="https://skillicons.dev/icons?i=rust,dart,bash,svg" />
 <!-- Other -->
-<img src="https://skillicons.dev/icons?i=react,svelte,vue,alpinejs,postman,visualstudio" />
+<img src="https://skillicons.dev/icons?i=svelte,vue,alpinejs,visualstudio,docker,mysql,sqlite" />
 
 ## Want to learn:
-<img src="https://skillicons.dev/icons?i=haskell,kotlin,ktor,plan9,swift,zig,remix,docker" />
+<img src="https://skillicons.dev/icons?i=haskell,kotlin,ktor,plan9,swift,zig,remix,flutter,htmx,nix,vitest,grafana" />
+
+## Not interested:
+Tried (or competent!) and disliked:
+<img src="https://skillicons.dev/icons?i=angular,emacs,gradle,go,heroku,react,java,nodejs,py,replit,vim,yarn" />
+
+Give me an "ick": <img src="https://skillicons.dev/icons?perline=12&i=anaconda,cmake,django,eclipse,flask,ipfs,laravel,lit,maven,perl,php,sentry,solidity,tauri,v,webpack" />
+
+<details>
+  <summary>What's the point of this all...?</summary>
+
+  I think you can tell a lot about a person in the context of collaborating with them or discussing code from
+  the tools and technologies that they like to use. A haskell user will likely get on with other haskell users.
+  
+  I'm telling people who don't know me upfront what I'm good at, what I enjoy, and what I won't be bothering with.
+
+  Apologies if this comes off pretentious or anything, I'm just writing my honest thoughts.
+</details>
