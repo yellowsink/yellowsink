@@ -11,39 +11,19 @@ Go check out all my friends at [UWU.NETWORK](//github.com/uwu), they make awesom
 
 ## Experienced:
 <!-- Languages -->
-<img src="https://skillicons.dev/icons?i=js,ts,cs,md,html,css,sass,regex" />
+<img src="https://skillicons.dev/icons?i=js,ts,cs,rust,md,html,css,sass,regex" />
 <!-- Frameworks -->
-<img src="https://skillicons.dev/icons?i=solidjs,astro,dotnet,workers,deno" />
+<img src="https://skillicons.dev/icons?i=react,solidjs,astro,dotnet,nodejs,deno,vercel,workers" />
 <!-- Web tooling -->
-<img src="https://skillicons.dev/icons?i=vite,vscode,tailwind,pnpm,vercel" />
+<img src="https://skillicons.dev/icons?i=vite,vscode,tailwind,pnpm" />
 <!-- Other -->
-<img src="https://skillicons.dev/icons?i=github,linux,arch,rider,webstorm,vscode,git,githubactions" />
+<img src="https://skillicons.dev/icons?i=linux,arch,rider,webstorm,vscode,git,githubactions" />
 
 ## Comfortable:
 <!-- Languages -->
-<img src="https://skillicons.dev/icons?i=rust,dart,bash,svg" />
+<img src="https://skillicons.dev/icons?i=dart,go,bash,svg" />
 <!-- Other -->
-<img src="https://skillicons.dev/icons?i=svelte,vue,alpinejs,visualstudio,docker,mysql,sqlite" />
+<img src="https://skillicons.dev/icons?i=svelte,vue,alpinejs,visualstudio,docker,mysql,sqlite,graphql" />
 
 ## Want to learn:
-<img src="https://skillicons.dev/icons?perline=8&i=haskell,kotlin,ktor,plan9,swift,zig,remix,flutter,htmx,nix,vitest,grafana" />
-
-## Not interested:
-Tried (or competent!) and disliked:
-
-<img src="https://skillicons.dev/icons?perline=8&i=angular,emacs,gradle,go,heroku,react,java,nodejs,py,replit,vim,yarn" />
-
-Give me an "ick":
-
-<img src="https://skillicons.dev/icons?perline=8&i=anaconda,cmake,django,eclipse,flask,ipfs,laravel,lit,maven,perl,php,sentry,solidity,tauri,v,webpack" />
-
-<details>
-  <summary>What's the point of this all...?</summary>
-
-  I think you can tell a lot about a person in the context of collaborating with them or discussing code from
-  the tools and technologies that they like to use. A haskell user will likely get on with other haskell users.
-  
-  I'm telling people who don't know me upfront what I'm good at, what I enjoy, and what I won't be bothering with.
-
-  Apologies if this comes off pretentious or anything, I'm just writing my honest thoughts.
-</details>
+<img src="https://skillicons.dev/icons?perline=8&i=haskell,kotlin,ktor,swift,remix,htmx,nix,vitest,grafana" />
